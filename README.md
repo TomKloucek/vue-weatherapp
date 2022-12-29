@@ -1,24 +1,5 @@
-# vue_weather
+# vue weatherapp
 
-## Project setup
-```
-npm install
-```
+Basic app in vue which shows current and future weather in three czech cities.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://vue-pocasi.netlify.app/
